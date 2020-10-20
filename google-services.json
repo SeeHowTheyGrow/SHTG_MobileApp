@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "586452150795",
+    "firebase_url": "https://shtg-e2e8d.firebaseio.com",
+    "project_id": "shtg-e2e8d",
+    "storage_bucket": "shtg-e2e8d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:586452150795:android:b4e636e98d6a27e3",
+        "android_client_info": {
+          "package_name": "nz.co.uniservices.shtg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "586452150795-c433tm5sava8pflst08nofmbiieo24qa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBf7LGXs2CkTiNUXf08QF8R0aSl1nhNJ_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

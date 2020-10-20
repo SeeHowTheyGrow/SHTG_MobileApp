@@ -1,0 +1,7 @@
+{
+  "name": "SHTG",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
