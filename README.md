@@ -1,8 +1,6 @@
-These are Cordova resources. You can replace icon.png and splash.png and run
-`ionic cordova resources` to generate custom icons and splash screens for your
-app. See `ionic cordova resources --help` for details.
+Angular
+=======
 
-Cordova reference documentation:
+The sources for this package are in the main [Angular](https://github.com/angular/angular) repo. Please file issues and pull requests against that repo.
 
-- Icons: https://cordova.apache.org/docs/en/latest/config_ref/images.html
-- Splash Screens: https://cordova.apache.org/docs/en/latest/reference/cordova-plugin-splashscreen/
+License: MIT
